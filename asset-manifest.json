@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AkshithaN-personal-portfolio/static/css/main.e83a493b.css",
-    "main.js": "/AkshithaN-personal-portfolio/static/js/main.ac0db376.js",
+    "main.js": "/AkshithaN-personal-portfolio/static/js/main.3b2cb619.js",
     "static/js/453.a7d99afe.chunk.js": "/AkshithaN-personal-portfolio/static/js/453.a7d99afe.chunk.js",
     "static/media/profile1.png": "/AkshithaN-personal-portfolio/static/media/profile1.ca9f3e78375f9d426f67.png",
     "index.html": "/AkshithaN-personal-portfolio/index.html",
     "main.e83a493b.css.map": "/AkshithaN-personal-portfolio/static/css/main.e83a493b.css.map",
-    "main.ac0db376.js.map": "/AkshithaN-personal-portfolio/static/js/main.ac0db376.js.map",
+    "main.3b2cb619.js.map": "/AkshithaN-personal-portfolio/static/js/main.3b2cb619.js.map",
     "453.a7d99afe.chunk.js.map": "/AkshithaN-personal-portfolio/static/js/453.a7d99afe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e83a493b.css",
-    "static/js/main.ac0db376.js"
+    "static/js/main.3b2cb619.js"
   ]
 }
